@@ -48,7 +48,7 @@ body{
 {
     text-transform: uppercase;
     outline: 0;
-    background-color: red;
+    background-color: rgb(255,0,0);
     color: aliceblue;
     width: 100%;
     border: 0;
